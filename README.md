@@ -45,7 +45,7 @@ With a team of passionate designers, developers, and engineers, we bring ideas t
 
 ### **SmartDVM**
 A comprehensive **veterinary practice management software** designed to streamline veterinary assistance for professionals and pet owners.  
-![SmartDVM](https://abron.co/images/projects/smartdvm.jpg)
+![SmartDVM]([https://abron.co/images/projects/smartdvm.jpg](https://api.abron.co/storage/projects/7e2r9oLc953JaIolx9utqGzLRlX2M18ac8r0newC.png))
 
 ---
 
