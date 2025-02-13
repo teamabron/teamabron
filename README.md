@@ -19,29 +19,31 @@ With a team of passionate designers, developers, and engineers, we bring ideas t
 
 ---
 
-## 📊 Skills Overview
+## 🏆 **Core Technologies & Competencies**
 
-| Topic               | Technologies & Tools |
-|---------------------|---------------------|
-| 🔍 **Analysis & Debugging** | Apache JMeter, Chrome DevTools, Lighthouse |
-| 🔐 **Security & IAM** | Hashicorp Vault, Keycloak |
-| 📊 **Observability** | Grafana, Prometheus, Sentry, Kibana, Logstash, Fluentd |
-| 🛢 **Data & Databases** | MySQL, PostgreSQL, MongoDB, SQLite, Redis, RabbitMQ, Elasticsearch |
-| ⚙ **Orchestration** | Kubernetes, Docker Swarm, Docker Images, Helm |
-| 🏗 **Infrastructure** | Ubuntu, CentOS, Cloudflare |
-| 🌍 **Ingress** | Istio Ingress Gateway, Traefik, Nginx, Apache |
-| 🤖 **Automation** | Ansible, Terraform, ArgoCD, GitHub Actions, GitLab CI |
-| 🌐 **Networking** | Istio Service Mesh, Calico |
-| 💻 **Programming** | Golang, PHP, JavaScript, Laravel, Vue.js, TypeScript, Swift, Kotlin, Flutter, Rust |
-| 📁 **File Storage** | Rook (Ceph), Minio |
-| 📈 **Business & SEO** | Google Analytics, Google Search Console |
-| 📋 **Project Management** | ClickUp |
+| **Field** | **Tools & Technologies** |
+|-----------|--------------------------|
+| 🛠 **Infrastructure & Cloud** | Kubernetes, Ubuntu, Docker, Helm |
+| 💻 **Programming Languages** | PHP, Golang, Swift, Kotlin, Rust, TypeScript, JavaScript |
+| 📂 **Project Management** | Asana, ClickUp, Trello |
+| 📊 **Monitoring & Logs** | Prometheus, Grafana, Kibana, Fluentd |
+| 🔗 **APIs & Data Transfer** | RabbitMQ, REST, GraphQL |
+| 🌐 **Networking & Traffic Control** | Traefik, Istio, Cloudflare, Nginx |
+| 🔍 **Performance & Debugging** | Apache JMeter, Lighthouse, Chrome DevTools |
+| 📁 **Storage Solutions** | Minio, Ceph |
+| 🛢 **Databases & Caching** | MySQL, PostgreSQL, Redis, MongoDB, SQLite |
+| 🔐 **Security & Authentication** | Hashicorp Vault, Keycloak |
+| 📈 **SEO & Analytics** | Google Analytics, Google Search Console |
+| 🔄 **Automation & CI/CD** | GitHub Actions, GitLab CI, Terraform, ArgoCD, Ansible |
+| 🗣 **Collaboration & Communication** | Slack, Telegram, Microsoft Teams |
+
+---
 
 ## 🤝 Join Us!
 We believe in collaboration, creativity, and cutting-edge technology.  
 If you're a designer, developer, or tech enthusiast looking to work on exciting projects, get in touch with us!  
 
-🔗 **Contact us:** [info@abron.co](mailto:info@abron.co)
+🔗 **Contact us:** [hi@abron.co](mailto:hi@abron.co)
 
 ---
 **💖 Made with passion by Abron Studio**
