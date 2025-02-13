@@ -27,17 +27,14 @@ With a team of passionate designers, developers, and engineers, we bring ideas t
 |-----------|--------------------------|
 | 🛠 **Infrastructure & Cloud** | Kubernetes, Ubuntu, Docker, Helm |
 | 💻 **Programming Languages** | PHP, Golang, Swift, Kotlin, Rust, TypeScript, JavaScript |
-| 📂 **Project Management** | Asana, ClickUp, Trello |
-| 📊 **Monitoring & Logs** | Prometheus, Grafana, Kibana, Fluentd |
-| 🔗 **APIs & Data Transfer** | RabbitMQ, REST, GraphQL |
+| 📊 **Monitoring & Logs** | Prometheus, Grafana, Kibana, Fluentd, Elk, EFK |
+| 🔗 **APIs & Data Transfer** | RabbitMQ, REST, GraphQL , Socket |
 | 🌐 **Networking & Traffic Control** | Traefik, Istio, Cloudflare, Nginx |
 | 🔍 **Performance & Debugging** | Apache JMeter, Lighthouse, Chrome DevTools |
 | 📁 **Storage Solutions** | Minio, Ceph |
 | 🛢 **Databases & Caching** | MySQL, PostgreSQL, Redis, MongoDB, SQLite |
 | 🔐 **Security & Authentication** | Hashicorp Vault, Keycloak |
-| 📈 **SEO & Analytics** | Google Analytics, Google Search Console |
 | 🔄 **Automation & CI/CD** | GitHub Actions, GitLab CI, Terraform, ArgoCD, Ansible |
-| 🗣 **Collaboration & Communication** | Slack, Telegram, Microsoft Teams |
 
 ---
 
