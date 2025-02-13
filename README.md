@@ -4,7 +4,7 @@
 With a team of passionate designers, developers, and engineers, we bring ideas to life through innovation and technology.
 
 🌍 **Website:** [abron.co](https://abron.co)  
-📍 **Location:** Global  
+📍 **Location:** Estonia  
 💼 **Projects:** UI/UX, Web, Branding, Animation, Software Development  
 
 ---
