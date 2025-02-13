@@ -51,43 +51,31 @@ A comprehensive **veterinary practice management software** designed to streamli
 
 ### **Snapbox**
 An emerging **social networking application** similar to platforms like Instagram and TikTok, offering unique features to enhance user engagement.  
-![Snapbox](https://abron.co/images/projects/snapbox.jpg)
+![Snapbox](https://api.abron.co/storage/projects/kXqhdmLC3OW8Uu19oEaCIRWaq0AwWx4joyQ7d9yd.jpg)
 
 ---
 
 ### **CTM Global Limited**
 A newly developed **compound toy company** specializing in OEM and ODM manufacturing, featuring two distinct toy brands.  
-![CTM Global Limited](https://abron.co/images/projects/ctm-global-limited.jpg)
+![CTM Global Limited](https://api.abron.co/storage/projects/sINk93ehBPtdx9KmrqvElkcoNj2VzGxqs0VcW1pe.jpg)
 
 ---
 
 ### **Smart Visit**
 A **healthcare dashboard** enabling doctors to set appointments and visit patients online, featuring booking, calendar, and chat functionalities.  
-![Smart Visit](https://abron.co/images/projects/smart-visit.jpg)
-
----
-
-### **Spazio Bressan**
-A **brand identity project** focusing on creating a unique and memorable presence for the client.  
-![Spazio Bressan](https://abron.co/images/projects/spazio-bressan.jpg)
+![Smart Visit](https://api.abron.co/storage/projects/Smart-Visit-Hero.jpg)
 
 ---
 
 ### **Convent Garden**
 A **web design project** aimed at developing an engaging and user-friendly online presence for the client.  
-![Convent Garden](https://abron.co/images/projects/convent-garden.jpg)
-
----
-
-### **GCC**
-A **brand identity project** designed to establish a strong and recognizable brand for the client.  
-![GCC](https://abron.co/images/projects/gcc.jpg)
+![Convent Garden](https://api.abron.co/storage/projects/CGFX-1.jpg)
 
 ---
 
 ### **Converty**
 A **web design project** focused on creating a modern and efficient website for the client's needs.  
-![Converty](https://abron.co/images/projects/converty.jpg)
+![Converty](https://api.abron.co/storage/projects/Converty-1.jpg)
 
 ---
 
