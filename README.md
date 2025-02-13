@@ -15,13 +15,13 @@ With a team of passionate designers, developers, and engineers, we bring ideas t
 - 🛠 **Software Engineering** - Developing scalable and efficient systems  
 
 ## 💡 Technologies We Use
-![Technologies](https://skillicons.dev/icons?i=swift,php,laravel,android,kotlin,flutter,rust,go,mysql,mongodb,redis,wordpress)
+![Technologies](https://skillicons.dev/icons?i=swift,php,laravel,kotlin,flutter,rust,go,mysql,mongodb,redis,wordpress)
 
 ## 🤝 Join Us!
 We believe in collaboration, creativity, and cutting-edge technology.  
 If you're a designer, developer, or tech enthusiast looking to work on exciting projects, get in touch with us!  
 
-🔗 **Contact us:** [info@abron.co](mailto:info@abron.co)
+🔗 **Contact us:** [hi@abron.co](mailto:hi@abron.co)
 
 ---
 **💖 Made with passion by Abron Studio**
