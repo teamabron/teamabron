@@ -33,7 +33,6 @@ With a team of passionate designers, developers, and engineers, we bring ideas t
 | 📁 **Storage Solutions** | Minio, Ceph |
 | 🛢 **Databases & Caching** | MySQL, PostgreSQL, Redis, MongoDB, SQLite |
 | 🔐 **Security & Authentication** | Hashicorp Vault, Keycloak |
-| 📈 **SEO & Analytics** | Google Analytics, Google Search Console |
 | 🔄 **Automation & CI/CD** | GitHub Actions, GitLab CI, Terraform, ArgoCD, Ansible |
 | 🗣 **Collaboration & Communication** | Slack, Telegram, Microsoft Teams |
 
